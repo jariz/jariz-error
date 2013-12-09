@@ -1,0 +1,9 @@
+﻿{
+	"id" : "jariz-update",
+	"name" : "Better Error Handling",
+	"version":"0.0.01",
+	"author":"JARI.IO",
+	"url":"http://jari.io",
+	"description" : "This mod aims to provide a better, more user friendly of notifying players an error has occurred.",
+	"main" : "./modAPI.js"
+}
