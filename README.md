@@ -14,15 +14,15 @@ This approach is:
  - More userfriendly
  - More developer friendly
 
-__Resources__
-[Bootstrap][1]
-[PRETTYJSON][2]
+__Resources__  
+[Bootstrap][1]  
+[PRETTYJSON][2]  
 
 
 __Remarks__  
 I do admit that there is a problem with this approach: The game scripts keep running and because this mod removes the entire DOM it might cause further errors, however, the mod blocks any further errors after showing the page, so you probably won't even notice, however, your console will probably get spammed with exceptions.
 
-[[img]https://easycaptu.re/cpfRw.png[/img]][3]
+[<img src="https://easycaptu.re/cpfRw.png"/>][3]
 
 
   [1]: http://getbootstrap.com
